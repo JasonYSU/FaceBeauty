@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "finish1", "finish1\finish1.vcxproj", "{46823253-B7D6-41F3-A950-3D44CF1A5DA8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "..\beauty\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj", "{055420A8-5C3E-4797-88F9-304AB581382A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camera_display", "..\摄像头人脸识别\camera_display\camera_display.vcxproj", "{06B2067B-0B71-1022-1277-996F8AE2252E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		myRelease|Win32 = myRelease|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.Debug|Win32.Build.0 = Debug|Win32
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.myRelease|Win32.ActiveCfg = Release|Win32
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.myRelease|Win32.Build.0 = Release|Win32
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.Release|Win32.ActiveCfg = Release|Win32
+		{46823253-B7D6-41F3-A950-3D44CF1A5DA8}.Release|Win32.Build.0 = Release|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.Debug|Win32.Build.0 = Debug|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.myRelease|Win32.ActiveCfg = Release|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.myRelease|Win32.Build.0 = Release|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.Release|Win32.ActiveCfg = Release|Win32
+		{055420A8-5C3E-4797-88F9-304AB581382A}.Release|Win32.Build.0 = Release|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.Debug|Win32.Build.0 = Debug|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.myRelease|Win32.ActiveCfg = myRelease|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.myRelease|Win32.Build.0 = myRelease|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.Release|Win32.ActiveCfg = Release|Win32
+		{06B2067B-0B71-1022-1277-996F8AE2252E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
